@@ -50,3 +50,7 @@ Para entrar a dichas opciones sólo hay que dijitar 1 o 2, para entrar a las opc
   **Fecha de operación: 03/12/2024 10:37**
 
 Y ese sería el proceso del sistema de "Conversor de monedas", donde podemos realizar las conversiones que queramos, de las monedas que se encuentren disponibles en el sistema
+
+## Autor
+
+* [Israel Pérez Juárez]([https://github.com/tu-usuario](https://github.com/Isra1412))
