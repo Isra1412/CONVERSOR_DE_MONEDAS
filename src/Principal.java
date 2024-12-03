@@ -3,6 +3,10 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
+/**
+ * Autor: Israel Pérez Juárez
+ * Challenge: Conversor de monedas
+ */
 public class Principal {
 
     public static void main(String[] args) throws IOException {
@@ -26,8 +30,11 @@ public class Principal {
             clavesMonedasBase.put("USD", "Dólar estadounidense");
 
             System.out.println("\nDigita el número de la opción que deseas ejecutar: ");
-            System.out.println("\n1 - Convertir monedas" +
-                    "\n2 - Consultar historico de conversiones");
+            System.out.println("""
+                    
+                    1 - Convertir monedas\
+                    
+                    2 - Consultar historico de conversiones""");
             opcion = lectura.nextInt();
             lectura.nextLine();
             switch (opcion) {
