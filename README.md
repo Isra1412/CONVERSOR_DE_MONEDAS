@@ -53,4 +53,4 @@ Y ese sería el proceso del sistema de "Conversor de monedas", donde podemos rea
 
 ## Autor
 
-* [Israel Pérez Juárez]([https://github.com/tu-usuario](https://github.com/Isra1412))
+[Israel Pérez Juárez](https://github.com/Isra1412)
